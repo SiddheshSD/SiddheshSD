@@ -59,7 +59,7 @@ I'm **Siddhesh Dicholkar**, a passionate Computer Engineering student who loves 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshSD&theme=tokyonight&hide_border=true" height="200" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshSD&theme=tokyonight&hide_border=true" height="400" alt="Streak Stats" />
 </p>
 
 ---
