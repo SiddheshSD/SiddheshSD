@@ -38,11 +38,9 @@ I'm **Siddhesh Dicholkar**, a passionate Computer Engineering student who loves 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vibe_Coding-6C63FF?style=for-the-badge&logo=lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-00D4FF?style=for-the-badge&logo=rocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stitch-FF9500?style=for-the-badge&logo=stitch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic_IDE-1DB954?style=for-the-badge&logo=terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vibe_Coding-6C63FF?style=for-the-badge&logo=lightning&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Antigravity-00D4FF?style=for-the-badge&logo=rocket&logoColor=black"/>
 </p>
 
 ### Dev Tools
@@ -52,33 +50,17 @@ I'm **Siddhesh Dicholkar**, a passionate Computer Engineering student who loves 
 
 ---
 
-## ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs
+## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ
 
-<p align="center">
-  <a href="https://github.com/SiddheshSD">
-    <img src="https://github-profile-trophy.vercel.app/?username=SiddheshSD&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
+[![Siddhesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshSD&bg_color=1a1b27&color=6C63FF&line=c56a90&point=ffeb95&area=false&hide_border=false)](https://github.com/SiddheshSD)
+
 ---
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs
 
 p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddheshSD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshSD&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshSD&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="Top Languages" />
-</p>
-
-
----
-
-## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ
-
-[![Siddhesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshSD&bg_color=1a1b27&color=6C63FF&line=c56a90&point=ffeb95&area=false&hide_border=false)](https://github.com/SiddheshSD)
 
 ---
 
