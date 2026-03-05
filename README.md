@@ -1,5 +1,5 @@
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I'm%20Siddhesh!%20👋&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I'm%20Siddhesh!%20&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Web+%26+App+Developer;Machine+Learning+%26+AI+Enthusiast;Vibe+Coder+%7C+Agentic+AI+Builder;Building+High-Performance+Apps+with+AI" alt="Typing SVG" />
@@ -9,9 +9,9 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
-I'm **Siddhesh Dicholkar**, a passionate CS/IT student who loves building high-performance web and mobile apps using cutting-edge tools — from traditional full-stack development to **Generative AI**, **Vibe Coding**, and **Agentic AI workflows**.
+I'm **Siddhesh Dicholkar**, a passionate Computer Engineering student who loves building high-performance web and mobile apps using cutting-edge tools — from traditional full-stack development to **Generative AI**, **Vibe Coding**, and **Agentic AI workflows**.
 
-- Currently pursuing CS / IT
+- Currently pursuing Computer Engineering 
 - Full Stack Web Developer (Frontend + Backend)
 - Machine Learning & AI Enthusiast
 - High-performance app builder using **Agentic Coding** & **Vibe Coding**
@@ -54,17 +54,25 @@ I'm **Siddhesh Dicholkar**, a passionate CS/IT student who loves building high-p
 
 ## ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SiddheshSD&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20)](https://github.com/SiddheshSD)
-
+<p align="center">
+  <a href="https://github.com/SiddheshSD">
+    <img src="https://github-profile-trophy.vercel.app/?username=SiddheshSD&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
 ---
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs
 
-| | |
-|---|---|
-| ** GitHub Stats** <br/> ![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddheshSD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) 
-| ** Streak Stats** <br/> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddheshSD&theme=tokyonight&hide_border=true) |
-| ** Top Languages** <br/> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshSD&layout=compact&theme=tokyonight&hide_border=true) | **🏅 Top Contributions** <br/> ![Top Contributions](https://github-contributor-stats.vercel.app/api?username=SiddheshSD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
+p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddheshSD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshSD&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshSD&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="Top Languages" />
+</p>
+
 
 ---
 
