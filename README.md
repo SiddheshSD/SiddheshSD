@@ -38,7 +38,7 @@ I'm **Siddhesh Dicholkar**, a passionate Computer Engineering student who loves 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=claude&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vibe_Coding-6C63FF?style=for-the-badge&logo=lightning&logoColor=black"/>
   <img src="https://img.shields.io/badge/Antigravity-00D4FF?style=for-the-badge&logo=rocket&logoColor=black"/>
 </p>
